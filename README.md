@@ -115,3 +115,5 @@ You can use the following resources to to get acquainted with some classificatio
   - You are free to use all manner of tools
   - Successive interviews for projects MAY be run to satisfy participating african.ai partners
 
+## ABOUT THE SOLUTIONS
+I have used k nearest neighbours for both challenges. It is a very simple but effective algorithm giving excellent results of over 99% accuracy . I tried using neural networks and it was slow and gave poorer results of about 80% accuracy. The most attractive feature of k nearest neighbour algorithm is its simplicity.
